@@ -1,0 +1,10 @@
+---
+title: "netlify-quarto-blogtest1"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+
