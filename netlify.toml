@@ -1,0 +1,17 @@
+##############################
+# Netlify configuration file #
+##############################
+
+# List of Build plugins
+[[plugins]]
+# since this isn't on the netlify plugin list yet, going 
+# to hopefully shortcircuit by feeding it a package.json 
+package = "netlify-plugin-quarto"
+  # Plugin configuration
+  #  [plugins.inputs]
+  #  foo = "bar"
+
+[build]
+# Dummy build command
+command = "echo 'done'"
+
