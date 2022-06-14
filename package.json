@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/dpastoor/netlify-quarto-blogtest1#readme",
   "dependencies": {
-    "netlify-plugin-quarto": "^0.0.3"
+    "netlify-plugin-quarto": "^0.0.4"
   }
 }
