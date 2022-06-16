@@ -6,7 +6,7 @@
 [[plugins]]
 # since this isn't on the netlify plugin list yet, going 
 # to hopefully shortcircuit by feeding it a package.json 
-package = "netlify-plugin-quarto"
+package = "@quarto/netlify-plugin-quarto"
   # Plugin configuration
   #  [plugins.inputs]
   #  foo = "bar"
